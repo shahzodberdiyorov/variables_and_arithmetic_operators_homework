@@ -4,3 +4,4 @@ num_one=5
 num_two=4
 # Find the sum of  'num_one' and 'num_two' then assign to 'variable_total'
 variable_total=num_one+num_two
+print(variable_total)
